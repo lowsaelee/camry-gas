@@ -3,7 +3,7 @@
 What is the actual mileage per gallon compared to the manufacturer's EPA MPG?
 Am I getting the MPG that is being stated by the manufacturer?
 
-Also, after driving say 200 miles on a full tank of gas, how many more miles will can I drive until the gas is out completely out?
+Also, after driving 200 miles on a full tank of gas, how many more miles will can I drive until the gas is out completely out?
 
 Although this project started when first driving a 2005 Honda Civic, I continued with my habit of also taking the data for  a 2016 Toyota Camry. However, the Camry already displays mileage left before tank goes empty.
 
@@ -24,5 +24,6 @@ Actual MPG: 31
 Equation for finding miles left in tank given miles driven
 
 MileLeft = -0.72(milesDriven) + 338.19
+194.19 Miles Left on Tank
 
 Note: Every gas station visit is a fill-up for the 2016 Honda Camry Hybrid. A majority of the fill-ups are at a Costco gas station with probably around 10 fill-ups at other branded gas station.
