@@ -18,6 +18,7 @@ Zero days between fill-up is because of a road trip that required filling up the
 The has is filled when there is an average of 60 miles left on the tank
 
 EPA MPG: 39
+
 Actual MPG: 31
 
 Equation for finding miles left in tank given miles driven
