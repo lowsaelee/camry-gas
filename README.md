@@ -1,4 +1,4 @@
-# camry-gas
+# Camry Gas Data
 
 What is the actual mileage per gallon compared to the manufacturer's EPA MPG?
 Am I getting the MPG that is being stated by the manufacturer?
