@@ -15,7 +15,7 @@ It costs around $36 on average to fill up a gas tank.
 The MPG was most efficient at 39 MPG and 19 MPG at the other end.  
 The tank is filled on average every 21 days with the max 81 days, because the car was not used while I was vacation.  
 Zero days between fill-up is because of a road trip that required filling up the gas on the same day after a long day of driving.  
-The has is filled when there is an average of 60 miles left on the tank.  
+The gas is filled when there is an average of 60 miles left on the tank.  
 
 EPA MPG: 39
 
@@ -23,7 +23,7 @@ Actual MPG: 31
 
 Equation for finding miles left in tank given miles driven
 
-MileLeft = -0.72(milesDriven) + 338.19
+milesLeft = -0.72(milesDriven) + 338.19
 194.19 Miles Left on Tank
 
 Note: Every gas station visit is a fill-up for the 2016 Honda Camry Hybrid. A majority of the fill-ups are at a Costco gas station with probably around 10 fill-ups at other branded gas station.
